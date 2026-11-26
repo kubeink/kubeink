@@ -1,0 +1,16 @@
+# Operating system
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+
+# Secrets and credentials
+.env
+.env.*
+*.kubeconfig
+kubeconfig
+
+# Build output
+bin/
+dist/
