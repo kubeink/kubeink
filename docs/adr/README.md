@@ -11,5 +11,6 @@ that supersedes the old one and update the status of both.
 | --- | --- | --- |
 | [0001](0001-go-operator-python-agents.md) | Go operator with a Python multi-agent service | Accepted |
 | [0002](0002-clusterreport-contract.md) | The ClusterReport resource is the contract | Accepted |
+| [0003](0003-deterministic-data.md) | Deterministic data, the model only interprets | Accepted |
 
 New records use [template.md](template.md).
