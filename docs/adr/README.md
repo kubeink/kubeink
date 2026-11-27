@@ -15,5 +15,6 @@ that supersedes the old one and update the status of both.
 | [0004](0004-reversible-pseudonymisation.md) | Reversible pseudonymisation before any model call | Accepted |
 | [0005](0005-orchestrator-and-specialists.md) | An orchestrator with read-only specialist agents | Accepted |
 | [0006](0006-ports-and-adapters.md) | Ports and adapters | Accepted |
+| [0007](0007-report-storage.md) | Report storage and history | Proposed |
 
 New records use [template.md](template.md).
