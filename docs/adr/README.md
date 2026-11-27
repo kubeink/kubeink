@@ -16,5 +16,6 @@ that supersedes the old one and update the status of both.
 | [0005](0005-orchestrator-and-specialists.md) | An orchestrator with read-only specialist agents | Accepted |
 | [0006](0006-ports-and-adapters.md) | Ports and adapters | Accepted |
 | [0007](0007-report-storage.md) | Report storage and history | Proposed |
+| [0008](0008-cli-as-kubectl-plugin.md) | A Go CLI that is also a kubectl plugin | Accepted |
 
 New records use [template.md](template.md).
