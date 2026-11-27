@@ -14,5 +14,6 @@ that supersedes the old one and update the status of both.
 | [0003](0003-deterministic-data.md) | Deterministic data, the model only interprets | Accepted |
 | [0004](0004-reversible-pseudonymisation.md) | Reversible pseudonymisation before any model call | Accepted |
 | [0005](0005-orchestrator-and-specialists.md) | An orchestrator with read-only specialist agents | Accepted |
+| [0006](0006-ports-and-adapters.md) | Ports and adapters | Accepted |
 
 New records use [template.md](template.md).
