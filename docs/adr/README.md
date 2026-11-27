@@ -13,5 +13,6 @@ that supersedes the old one and update the status of both.
 | [0002](0002-clusterreport-contract.md) | The ClusterReport resource is the contract | Accepted |
 | [0003](0003-deterministic-data.md) | Deterministic data, the model only interprets | Accepted |
 | [0004](0004-reversible-pseudonymisation.md) | Reversible pseudonymisation before any model call | Accepted |
+| [0005](0005-orchestrator-and-specialists.md) | An orchestrator with read-only specialist agents | Accepted |
 
 New records use [template.md](template.md).
