@@ -9,5 +9,6 @@ that supersedes the old one and update the status of both.
 
 | ADR | Title | Status |
 | --- | --- | --- |
+| [0001](0001-go-operator-python-agents.md) | Go operator with a Python multi-agent service | Accepted |
 
 New records use [template.md](template.md).
